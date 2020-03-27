@@ -1,0 +1,10 @@
+@import 'reset/index';
+@import 'variables/index';
+@import 'animations/index';
+@import 'components/index';
+
+body, html
+{
+	background-color: $dark;
+	color: $light;
+}

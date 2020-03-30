@@ -1,16 +1,16 @@
-//
-// Visual.
-//
-$base-spacing:                      20px;
-$base-border-radius:                4px;
-$base-easing-function:              cubic-bezier(0.0, 0.0, 0.2, 1);
-$base-box-shadow:                   0 1px 2px rgba(0, 0, 0, 0.1);
+// Visual
+$basespacing:  			20px;
+$baseborderradius:  	4px;
+$baseeasingfunction:  	cubic-bezier(0.0, 0.0, 0.2, 1);
+$baseboxshadow:  		0 1px 2px rgba(0, 0, 0, 0.1);
+
+// Fonts
+$basefontfamily:  		'Helvetica Neue', -apple-system, sans-serif;
+$basefontweight:  		$weightregular;
+$basefontsize:  		$sizenormal;
+$baselineheight:  		1.15;
+
 
 //
-// Fonts.
-//
-// $base-font-family:                  'Helvetica Neue', -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
-$base-font-family:                  'Helvetica Neue', -apple-system, sans-serif;
-$base-font-weight:                  $weight-regular;
-$base-font-size:                    $size-normal;
-$base-line-height:                  1.15;
+// Global Sizes
+$buttonHeight: 10vh;

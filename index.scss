@@ -5,6 +5,8 @@
 
 body, html
 {
-	background-color: $dark;
+	background-color: $background;
 	color: $light;
+	font-family: $basefontfamily;
+	font-size: $basefontsize !important;
 }
